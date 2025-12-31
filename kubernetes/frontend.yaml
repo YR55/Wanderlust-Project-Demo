@@ -21,9 +21,6 @@ spec:
           image: yogeshverma08/wanderlust-frontend-beta:2a59c60-22
           ports:
             - containerPort: 5173
-          env:
-            - name: VITE_API_PATH
-              value: "http://backend-service:8080"
 ---
 apiVersion: v1
 kind: Service
