@@ -1,6 +1,6 @@
 resource "aws_key_pair" "deployer" {
   key_name   = "terra-automate-key"
-  public_key = file("/Users/shubham/Documents/work/TrainWithShubham/terra-practice/terra-key.pub")
+  public_key = file("/c/Users/0127c/Downloads/Imp-key-for-instances.pub")
 }
 
 resource "aws_default_vpc" "default" {

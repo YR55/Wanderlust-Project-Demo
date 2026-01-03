@@ -26,7 +26,7 @@ pipeline {
 
         stage("Git: Code Checkout") {
             steps {
-                code_checkout("https://github.com/YR55/Wanderlust-Mega-Project.git", "main")
+                code_checkout("https://github.com/YR55/Wanderlust-Project.git", "main")
             }
         }
 
