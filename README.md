@@ -1,4 +1,4 @@
-# Wanderlust – DevOps Enabled Travel Blog Platform 🌍🚀
+# Wanderlust – DevOps & DevSecOps Enabled Travel Blog Platform 🌍🚀
 
 Wanderlust is a **full-stack MERN application** deployed using **modern DevOps and GitOps practices**.  
 This project focuses on **real-world deployment workflows**, CI/CD automation, containerization, and cloud-native architecture rather than just application development.
