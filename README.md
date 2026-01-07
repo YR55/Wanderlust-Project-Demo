@@ -6,10 +6,10 @@ This project focuses on **real-world deployment workflows**, CI/CD automation, c
 ![Preview Image](./Assets/Wanderlust-App.png)
 #
 
-🔗 **Frontend (Live UI)**  
+🔗 **Frontend (Live-UI)**  
 https://wanderlust.yogdev.tech/
 
-🔗 **Backend (Live API)**  
+🔗 **Backend (Live-API)**  
 https://wanderlust-project-demo-srwr.onrender.com
 
 ---
@@ -67,18 +67,43 @@ This section contains **real screenshots from the deployed project**, covering d
 
 ---
 
-### 🔹 Jenkins CI & CD Pipelines
-![Jenkins Pipeline](./Assets/jenkins-pipeline.png)
+### 🔹 Jenkins CI Pipeline
+![Jenkins Pipeline](./Assets/jenkins-ci-pipeline.png)
 
 ---
 
-### 🔹 ArgoCD Application Sync Status
-![ArgoCD Sync](./Assets/argocd-sync.png)
+### 🔹 Jenkins CD Pipeline
+![Jenkins Pipeline](./Assets/jenkins-cd-pipeline.png)
+
+---
+
+### 🔹 ArgoCD Dashboard (Cluster Overview)
+![ArgoCD Dashboard](./Assets/argocd-sync2.png)
+
+---
+
+### 🔹 ArgoCD Application View (Inside App Sync & Resources)
+![ArgoCD Application](./Assets/argocd-sync1.png)
 
 ---
 
 ### 🔹 Kubernetes Resources Running in Cluster
 ![Kubernetes Resources](./Assets/kubernetes-resources.png)
+
+---
+
+### 🔹 Monitoring & Observability (Prometheus / Grafana)
+![Monitoring](./Assets/extra3.png)
+
+---
+
+### 🔹 Email Notification System (Alerts & Pipeline Status)
+![Email Notifications](./Assets/extra1.png)
+
+---
+
+### 🔹 Solar Cube / System Architecture Visualization
+![Solar Cube](./Assets/extra2.png)
 
 ---
 
